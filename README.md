@@ -12,4 +12,4 @@ ___
 ✅ 400-error handler  
 ✅ 500-error handler  
 ✅ IndexError handler  
-✅ sqlite error handler3  
+✅ sqlite error handler  
